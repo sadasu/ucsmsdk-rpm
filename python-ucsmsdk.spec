@@ -1,6 +1,6 @@
 %global package_name ucsmsdk
 Name:           python-%{package_name}
-Version:        0.9.3.1 
+Version:        0.9.3.2 
 Release:        1%{?dist}
 Summary:        Python SDK for Cisco UCS Manager
 License:        ASL 2.0
@@ -27,5 +27,5 @@ Summary: %summary
 %doc README.md
 %license LICENSE.txt
 %changelog
-* Thu Apr 26 2018 Sandhya Dasu <sadasu@cisco.com> 0.9.3.1-1
+* Wed Jun 13 2018 Sandhya Dasu <sadasu@cisco.com> 0.9.3.2-1
 - Initial RPM release
