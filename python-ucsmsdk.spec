@@ -18,7 +18,8 @@ Python development kit for Cisco UCS Manager
 %description %_description
 
 %package -n python2-ucsmsdk
-Summary: %summary
+Summary:  %summary
+Requires: python2-pyparsing
 %{?python_provide:%python_provide python2-ucsmsdk}
 %description -n python2-ucsmsdk %_description
 
