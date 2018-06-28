@@ -6,7 +6,7 @@ Release:        1%{?dist}
 Summary:        Python SDK for Cisco UCS Manager
 License:        ASL 2.0
 URL:            https://pypi.org/pypi/%{package_name}
-Source0:        https://pypi.python.org/packages/source/U/ucsmsdk/ucsmsdk-%{version}.tar.gz
+Source0:        https://files.pythonhosted.org/packages/source/u/%{package_name}/%{package_name}-%{version}.tar.gz
 
 BuildArch:      noarch
 
