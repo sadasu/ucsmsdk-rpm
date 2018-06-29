@@ -37,7 +37,7 @@ Requires: python2-pyparsing
 %{python2_sitelib}/%{package_name}*.egg-info
 
 %doc README.md
-%license LICENSE.txt
+%license LICENSE
 
 %changelog
 * Thu Jun 14 2018 Sandhya Dasu <sadasu@cisco.com> 0.9.3.2-1
